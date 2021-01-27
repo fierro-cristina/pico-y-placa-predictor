@@ -17,9 +17,9 @@ In this minimalistic approach to building a Pico y Placa predictor there are fou
 # Run the code:
 To run this project on console, this repository should be cloned or downloaded. Once the repository is in a local folder, the project can be executed on console using the following command on any terminal or IDE with Python 3:
 
-`<$python main.py>`
+`python main.py`
 
 To run the test suite, the following command should be used:
 
-`<$python -m unittest -v tests.test_suite>`
+`python -m unittest -v tests.test_suite`
 
