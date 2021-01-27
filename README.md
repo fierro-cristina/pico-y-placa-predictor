@@ -15,7 +15,7 @@ In this minimalistic approach to building a Pico y Placa predictor there are fou
 * "tests" folder - contains a detailed test suite built to put each implemeted method to the test. 
 
 # Run the code:
-To run this project on console, this repository should be cloned or downloaded. Once the repository is in a local folder, the project can be executed on console using the following command on any terminal or IDE with Python 3:
+To run this project, this repository should be cloned or downloaded. Once the repository is in a local folder, the project can be executed on console using the following command on any terminal or IDE with Python 3:
 
 `python main.py`
 
