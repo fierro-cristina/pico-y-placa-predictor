@@ -1,4 +1,5 @@
-# Pico y Placa predictor: Description
+# Pico y Placa predictor
+## Description:
 This is a project built with Python 3. It is a "Pico y Placa" predictor, which predicts whether or not a vehicle with a plate number ending in a certain digit is allowed to circulate on according to the following rules:
 
 *Vehicles with plates ending in the following numbers cannot circulate between the time periods 07:00 - 09:30 and 16:00 - 19:30 on the following days:*
@@ -14,7 +15,7 @@ In this minimalistic approach to building a Pico y Placa predictor there are fou
 * main.py - allows to test the project on console.
 * "tests" folder - contains a detailed test suite built to put each implemeted method to the test. 
 
-# Run the code:
+## Run the code:
 To run this project, this repository should be cloned or downloaded. Once the repository is in a local folder, the project can be executed on console using the following command on any terminal or IDE with Python 3:
 
 `python main.py`
