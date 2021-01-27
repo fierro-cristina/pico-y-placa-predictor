@@ -5,7 +5,7 @@ This is a project built with Python 3. It is a "Pico y Placa" predictor, which p
 
 Mon | Tue | Wed | Thu | Fri | Sat | Sun 
 ----|-----|-----|-----|-----|-----|-----
-1, 2 | 3, 4 | 5, 6 | 7, 8 | 9, 0 | N/A | N/A 
+1, 2 | 3, 4 | 5, 6 | 7, 8 | 9, 0 | No Restrictions | No Restrictions 
 
 In this minimalistic approach to building a Pico y Placa predictor there are four main files and a folder:
 * rules.py - contains the rules that the predictor will be based on.
